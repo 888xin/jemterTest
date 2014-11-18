@@ -29,6 +29,7 @@ public class TestLength extends AbstractJavaSamplerClient{
         return params;
     }
 
+
     @Override
     public SampleResult runTest(JavaSamplerContext javaSamplerContext) {
         int len = 0;
